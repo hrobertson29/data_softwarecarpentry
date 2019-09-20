@@ -1,3 +1,4 @@
+#first argument is input fastq
 input_fastq=$1
 
 
